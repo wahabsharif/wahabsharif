@@ -119,6 +119,7 @@
 ###
 
 <div align="center">
+  <p>Profile Views</p>
   <img src="https://profile-counter.glitch.me/wahabsharif/count.svg?"  />
 </div>
 
