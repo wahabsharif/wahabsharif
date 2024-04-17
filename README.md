@@ -121,5 +121,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/wahabsharif/count.svg?"  />
 </div>
-
+[![](https://visitcount.itsvg.in/api?id=wahabsharif&icon=7&color=9)](https://visitcount.itsvg.in)
 ###
