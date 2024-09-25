@@ -98,13 +98,6 @@
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/wahabsharif/wahabsharif/output/snake.svg" alt="Snake animation" />
-
-###
 
 ###
 
@@ -125,10 +118,5 @@
 </div>
 
 ###
-
-<div align="center">
-  <h4>Profile Views</h4>
-  <img src="https://profile-counter.glitch.me/wahabsharif/count.svg?"  />
-</div>
 
 ###
